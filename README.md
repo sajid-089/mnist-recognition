@@ -1,4 +1,4 @@
-# Task 2: MNIST Handwritten Digit Recognition
+# MNIST Handwritten Digit Recognition
 
 ## Objective
 Build a machine learning model that looks at an image of a handwritten
