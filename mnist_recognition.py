@@ -42,7 +42,7 @@ def load_data():
     labels = mnist_data.target.astype(int)
 
     print(f"  Total images: {images.shape[0]}")
-    print(f"  Features per image: {images.shape[1]} (28x28 = 784 pixels))
+    print(f"  Features per image: {images.shape[1]} (28x28 = 784 pixels)")
     print(f"  Digit classes: {np.unique(labels)}")
     print(f"  Pixel value range: {images.min()} to {images.max()}")
 
